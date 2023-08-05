@@ -1,0 +1,33 @@
+body {
+    display: inline;
+    margin: 1%;
+    line-height: 1.5;
+    background-color: #edebeb;
+}
+
+form {
+    margin: 5% 20%;
+    padding: 3%;
+    background-color: white;
+    border: 2px solid #1877F2;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #1877F2;
+}
+
+input[type="text"], input[type="email"], input[type="number"], input[type="password"], textarea {
+    width: 100%;
+    padding: 0;
+}
+
+input[type="submit"] {
+    padding: 1%;
+    background-color: #1877F2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 5%;
+    cursor: pointer;
+}
