@@ -1,0 +1,38 @@
+html {
+    font-family: 'Arial Rounded MT Bold', sans-serif;;
+}
+
+h1, h2 {
+    color: #1877F2;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: 25%;
+    height: auto;
+    width: 50%;
+}
+
+a {
+    color: blue;
+}
+
+table {
+    margin: 0 1%;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 1%;
+    border: 1px solid black;
+}
+
+.container {
+    display: flex;
+    margin: 0 25%;
+}
